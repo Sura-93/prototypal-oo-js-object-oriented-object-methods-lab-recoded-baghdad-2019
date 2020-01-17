@@ -20,6 +20,6 @@ BoardMember.prototype.releasePressStatement() {
   
 }
 BoardMember.prototype.sayHi  () {
-  
+  return "Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.
   
 }
