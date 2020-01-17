@@ -14,3 +14,7 @@ BoardMember.prototype.approve() {
 BoardMember.prototype.doCharity() {
   return 'I like to help people.';
 }
+BoardMember.prototype.releasePressStatement() {
+  
+  
+}
