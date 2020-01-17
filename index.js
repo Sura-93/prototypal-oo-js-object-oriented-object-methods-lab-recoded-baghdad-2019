@@ -12,5 +12,5 @@ BoardMember.prototype.approve() {
   return 'You can do that!';
 }
 BoardMember.prototype.doCharity() {
-  
+  return 'I like to help people.';
 }
