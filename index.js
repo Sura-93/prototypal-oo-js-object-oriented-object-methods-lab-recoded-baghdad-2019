@@ -6,16 +6,16 @@ function BoardMember (name, homeState, training) {
   
 }
 BoardMember.prototype.veto() {
-  return 'No, I must disagree';
+  return 'No, I must disagree'
 }
 BoardMember.prototype.approve() {
-  return 'You can do that!';
+  return 'You can do that!'
 }
 BoardMember.prototype.doCharity() {
-  return 'I like to help people.';
+  return 'I like to help people.'
 }
 BoardMember.prototype.releasePressStatement() {
   
-  return 'You will see great things from Scuber';
+  return 'You will see great things from Scuber'
   
 }
