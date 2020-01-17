@@ -11,4 +11,6 @@ BoardMember.prototype.veto() {
 BoardMember.prototype.approve() {
   return 'You can do that!';
 }
-BoardMember.
+BoardMember.prototype.doCharity() {
+  
+}
