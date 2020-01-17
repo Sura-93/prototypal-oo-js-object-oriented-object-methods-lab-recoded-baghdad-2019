@@ -16,5 +16,6 @@ BoardMember.prototype.doCharity() {
 }
 BoardMember.prototype.releasePressStatement() {
   
+  return 'You will see great things from Scuber';
   
 }
